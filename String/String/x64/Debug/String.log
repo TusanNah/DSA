@@ -1,0 +1,5 @@
+﻿  String.cpp
+C:\Users\User\source\repos\DSA\String\String\String.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\DSA\String\String\String.cpp(12,15): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\User\source\repos\DSA\String\String\String.cpp(12,19): error C2440: 'initializing': cannot convert from 'std::string' to 'int'
+C:\Users\User\source\repos\DSA\String\String\String.cpp(12,17): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called

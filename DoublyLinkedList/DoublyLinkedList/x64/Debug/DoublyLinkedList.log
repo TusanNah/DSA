@@ -1,0 +1,3 @@
+﻿  DoublyLinkedList.cpp
+C:\Users\User\source\repos\DSA\DoublyLinkedList\DoublyLinkedList\DoublyLinkedList.cpp(124,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DoublyLinkedList.vcxproj -> C:\Users\User\source\repos\DSA\DoublyLinkedList\x64\Debug\DoublyLinkedList.exe
