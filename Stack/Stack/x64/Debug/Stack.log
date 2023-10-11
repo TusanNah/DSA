@@ -1,4 +1,0 @@
-﻿  Stack.cpp
-C:\Users\User\source\repos\DSA\Stack\Stack\Stack.cpp(76,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\User\source\repos\DSA\Stack\Stack\Stack.cpp(54): warning C4715: 'Stack::Peek': not all control paths return a value
-  Stack.vcxproj -> C:\Users\User\source\repos\DSA\Stack\x64\Debug\Stack.exe

@@ -1,3 +1,0 @@
-﻿  AlgorithmsOfSort.cpp
-C:\Users\User\source\repos\DSA\AlgorithmsOfSort\AlgorithmsOfSort\AlgorithmsOfSort.cpp(165,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  AlgorithmsOfSort.vcxproj -> C:\Users\User\source\repos\DSA\AlgorithmsOfSort\x64\Debug\AlgorithmsOfSort.exe
