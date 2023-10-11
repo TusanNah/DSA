@@ -1,4 +1,0 @@
-﻿  Exercises.cpp
-C:\Users\User\source\repos\DSA\Exercises\Exercises\Exercises.cpp(65,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\User\source\repos\DSA\Exercises\Exercises\Exercises.cpp(51): warning C4715: 'FindNodeN': not all control paths return a value
-  Exercises.vcxproj -> C:\Users\User\source\repos\DSA\Exercises\x64\Debug\Exercises.exe
